@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Aadarsh Kumar Gupta
 
-<!--
-**the-aadarsh/the-aadarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building Solutions, Exploring Space, Leading Change**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Passionate about AI, space exploration, and innovation. Skilled in project management, problem-solving, and delivering impactful results.
+
+---
+
+## 🏢 Experience
+- **COO, Dizi Mark Education Consultancy** *(2024–Present)*  
+- **Country Guide, IOAA-Jr 2024** *(Oct 2024)*  
+- **Volunteer, RUDEC Nepal** *(Nov–Dec 2024)*  
+- **Secretary, SEDS-Trinity** *(2023–2024)*  
+- **Volunteer, Global Peace Women** *(2023–2024)*  
+- **Co-Founder/CMO, Dizimark International** *(2019–2022)*  
+
+---
+
+## 🎓 Education
+- **Trinity International College** – GCE A-Levels *(2022–2024)*  
+- **United School** – SEE *(2019–2022)*  
+
+---
+
+## 🏆 Honors & Awards
+- **Google Genius (2022)** – 1st out of 252 students  
+- **NAO Finalist (twice)** – Top 20  
+- **Astrophotography Competition** – 1st Place  
+- **PowerPoint Competition** – 2nd Place  
+- **Doubles Table Tennis** – 3rd Place  
+
+---
+
+## 💡 Projects
+- **Paper Peel** – *Coming Soon*  
+- **PrepAL** – *Coming Soon*  
+- **Research Project (2024)** – Studied technology adoption in Mahalaxmi Municipality; received a Letter of Appreciation from the Mayor  
+
+---
+
+## 🛠️ Skills
+Python | Django | FastAPI | MongoDB | PostgreSQL | Leadership | Event Planning | Problem-Solving | Communication  
+
+---
+
+## 🌐 Languages
+English | Nepali | Hindi  
+
+---
+
+## 📫 Contact
+- 📧 officialaadarsh32@gmail.com  
+- 📍 Imadole, Lalitpur  
+- [LinkedIn](https://www.linkedin.com/in/aadarsh-gupta-0a7427243/)  
+
+---
+
+> Coding by day, chasing open roads by night 🏍️💻
