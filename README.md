@@ -20,6 +20,7 @@ Passionate about AI, space exploration, and innovation. Skilled in project manag
 ---
 
 ## 🎓 Education
+- **King's College** – BSCS *(OCT 2025 - Present)*
 - **Trinity International College** – GCE A-Levels *(2022–2024)*  
 - **United School** – SEE *(2019–2022)*  
 
