@@ -10,7 +10,7 @@ Passionate about AI, space exploration, and innovation. Skilled in project manag
 ---
 
 ## 🏢 Experience
-- **COO, Dizi Mark Education Consultancy** *(2024–Present)*  
+- **COO, Dizi Mark Education Consultancy** *(Dec 2024– Dec 2025)*  
 - **Country Guide, IOAA-Jr 2024** *(Oct 2024)*  
 - **Volunteer, RUDEC Nepal** *(Nov–Dec 2024)*  
 - **Secretary, SEDS-Trinity** *(2023–2024)*  
