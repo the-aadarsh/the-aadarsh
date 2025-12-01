@@ -36,8 +36,7 @@ Passionate about AI, space exploration, and innovation. Skilled in project manag
 ---
 
 ## 💡 Projects
-- **Paper Peel** – *Coming Soon*  
-- **PrepAL** – *Coming Soon*  
+- **Paper Peel** – *Coming Soon*   
 - **Research Project (2024)** – Studied technology adoption in Mahalaxmi Municipality; received a Letter of Appreciation from the Mayor  
 
 ---
