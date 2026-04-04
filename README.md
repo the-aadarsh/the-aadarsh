@@ -1,51 +1,77 @@
+\<div align="center"\>
+
 # 👋 Hi, I'm Aadarsh Kumar Gupta
 
-**Building Solutions, Exploring Space, Leading Change**
+**Building Scalable SaaS | Exploring AI & Space | Scaling Content**
 
----
+[](https://www.linkedin.com/in/aadarsh-gupta32/)
+[](https://www.instagram.com/_living.aadarsh/)
+[](mailto:officialaadarsh32@gmail.com)
 
-## 🚀 About Me
-Passionate about AI, space exploration, and innovation. Skilled in project management, problem-solving, and delivering impactful results.
+\</div\>
 
----
+-----
 
-## 🏢 Experience
-- **COO, Dizi Mark Education Consultancy** *(Dec 2024– Dec 2025)* - **Country Guide, IOAA-Jr 2024** *(Oct 2024)* - **Volunteer, RUDEC Nepal** *(Nov–Dec 2024)* - **Secretary, SEDS-Trinity** *(2023–2024)* - **Volunteer, Global Peace Women** *(2023–2024)* - **Co-Founder/CMO, Dizimark International** *(2019–2022)* ---
+## 🚀 The Mission
 
-## 🎓 Education
-- **King's College** – BSCS *(OCT 2025 - Present)*
-- **Trinity International College** – GCE A-Levels *(2022–2024)* - **United School** – SEE *(2019–2022)* ---
+Passionate about AI architecture, space exploration, and scalable innovation. I operate at the intersection of deep tech and media, focusing on direct execution—building fast, solving complex problems, and delivering impactful results without the fluff. Through my personal brand, I document the journey of a founder in Nepal, exploring psychology, deep thinking, and the raw realities of building businesses from the ground up.
 
-## 🏆 Honors & Awards
-- **Google Genius (2022)** – 1st out of 252 students  
-- **NAO Finalist (twice)** – Top 20  
-- **Astrophotography Competition** – 1st Place  
-- **PowerPoint Competition** – 2nd Place  
-- **Doubles Table Tennis** – 3rd Place  
+-----
 
----
+## 💼 Current Ventures & Leadership
 
-## 💡 Projects
-- **Paper Peel** – An AI-powered educational tool for creating and organizing flashcards. Features instant study material sharing via QR codes and a distraction-free interface designed for collaborative learning.
-- **Research Project (2024)** – Studied technology adoption in Mahalaxmi Municipality; received a Letter of Appreciation from the Mayor  
+  * **Co-Founder & CEO, [Aethon Media](https://www.instagram.com/aethonmedia/)**
+      * Scaling a cutting-edge social media marketing and content creation agency.
+  * **COO, [Nevryon Foundry](https://nevryon-foundry.vercel.app/)**
+      * Leading operations for an early-stage tech foundry focused on SaaS architecture and delivering excellence in every solution.
+  * **Personal Brand, [@\_living.aadarsh](https://www.instagram.com/_living.aadarsh/)**
+      * Building a personal content vault centered on mental frameworks, principles, and founder life.
 
----
+-----
 
-## 🛠️ Skills
-Python | Django | FastAPI | MongoDB | PostgreSQL | Leadership | Event Planning | Problem-Solving | Communication  
+## 🛠️ Tech Stack & Arsenal
 
----
+  * **Backend & Architecture:** Python | Django | FastAPI | Next.js
+  * **Databases & Infrastructure:** PostgreSQL | MongoDB | Custom PBaaS (Private Backend-as-a-Service)
+  * **Core Competencies:** AI Integrations | SaaS Development | Project Management | Direct Communication
 
-## 🌐 Languages
-English | Nepali | Hindi  
+-----
 
----
+## 💡 Featured Projects
 
-## 📫 Contact
-- 📧 officialaadarsh32@gmail.com  
-- 📍 Imadole, Lalitpur  
-- [LinkedIn](https://www.linkedin.com/in/aadarsh-gupta-0a7427243/)  
+### 📱 [Paper Peel](https://apps.apple.com/us/app/paper-peel/id6759873925) *(🟢 Live on the App Store)*
 
----
+An AI-powered educational tool engineered for creating and organizing flashcards.
 
-> Coding by day, chasing open roads by night 🏍️💻
+  * **Key Features:** Instant study material sharing via QR codes, distraction-free UI, and optimized workflows designed specifically for collaborative learning.
+
+### 📊 Municipal Technology Research *(2024)*
+
+  * Spearheaded a comprehensive study on technology adoption within Mahalaxmi Municipality. Delivered actionable insights to local government, resulting in an official Letter of Appreciation from the Mayor.
+
+-----
+
+## 🏢 Prior Experience
+
+  * **COO**, Dizi Mark Education Consultancy *(Dec 2024 – Dec 2025)*
+  * **Country Guide**, IOAA-Jr 2024 *(Oct 2024)*
+  * **Volunteer**, RUDEC Nepal *(Nov 2024 – Dec 2024)*
+  * **Secretary**, SEDS-Trinity *(2023 – 2024)*
+  * **Co-Founder & CMO**, Dizimark International *(2019 – 2022)*
+
+-----
+
+## 🎓 Education & Honors
+
+  * **King's College** — BS in Computer Science *(Oct 2025 – Present | 4.0 GPA)*
+  * **National Astronomy Olympiad (NAO):** Two-time Top 20 Finalist.
+  * **Google Genius (2022):** Ranked 1st out of 252 students.
+  * **Competitions:** 1st Place in Astrophotography | 2nd Place in PowerPoint Competition.
+
+-----
+
+\<div align="center"\>
+
+> *Coding by day, chasing open roads by night 🏍️💻*
+
+\</div\>
