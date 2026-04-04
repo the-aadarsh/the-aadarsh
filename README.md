@@ -10,21 +10,11 @@ Passionate about AI, space exploration, and innovation. Skilled in project manag
 ---
 
 ## 🏢 Experience
-- **COO, Dizi Mark Education Consultancy** *(Dec 2024– Dec 2025)*  
-- **Country Guide, IOAA-Jr 2024** *(Oct 2024)*  
-- **Volunteer, RUDEC Nepal** *(Nov–Dec 2024)*  
-- **Secretary, SEDS-Trinity** *(2023–2024)*  
-- **Volunteer, Global Peace Women** *(2023–2024)*  
-- **Co-Founder/CMO, Dizimark International** *(2019–2022)*  
-
----
+- **COO, Dizi Mark Education Consultancy** *(Dec 2024– Dec 2025)* - **Country Guide, IOAA-Jr 2024** *(Oct 2024)* - **Volunteer, RUDEC Nepal** *(Nov–Dec 2024)* - **Secretary, SEDS-Trinity** *(2023–2024)* - **Volunteer, Global Peace Women** *(2023–2024)* - **Co-Founder/CMO, Dizimark International** *(2019–2022)* ---
 
 ## 🎓 Education
 - **King's College** – BSCS *(OCT 2025 - Present)*
-- **Trinity International College** – GCE A-Levels *(2022–2024)*  
-- **United School** – SEE *(2019–2022)*  
-
----
+- **Trinity International College** – GCE A-Levels *(2022–2024)* - **United School** – SEE *(2019–2022)* ---
 
 ## 🏆 Honors & Awards
 - **Google Genius (2022)** – 1st out of 252 students  
@@ -36,7 +26,7 @@ Passionate about AI, space exploration, and innovation. Skilled in project manag
 ---
 
 ## 💡 Projects
-- **Paper Peel** – *Coming Soon*   
+- **Paper Peel** – An AI-powered educational tool for creating and organizing flashcards. Features instant study material sharing via QR codes and a distraction-free interface designed for collaborative learning.
 - **Research Project (2024)** – Studied technology adoption in Mahalaxmi Municipality; received a Letter of Appreciation from the Mayor  
 
 ---
