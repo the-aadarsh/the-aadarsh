@@ -1,4 +1,4 @@
-\<div align="center"\>
+
 
 # 👋 Hi, I'm Aadarsh Kumar Gupta
 
@@ -8,7 +8,6 @@
 [](https://www.instagram.com/_living.aadarsh/)
 [](mailto:officialaadarsh32@gmail.com)
 
-\</div\>
 
 -----
 
@@ -70,8 +69,7 @@ An AI-powered educational tool engineered for creating and organizing flashcards
 
 -----
 
-\<div align="center"\>
 
 > *Coding by day, chasing open roads by night 🏍️💻*
 
-\</div\>
+
