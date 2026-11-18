@@ -32,10 +32,6 @@ Passionate about AI architecture, space exploration, and scalable innovation. I 
 
 -----
 
-## 💡 Featured Projects
-
-### 📱 [Paper Peel](https://apps.apple.com/us/app/paper-peel/id6759873925) *(🟢 Live on the App Store)*
-
 An AI-powered educational tool engineered for creating and organizing flashcards.
 
   * **Key Features:** Instant study material sharing via QR codes, distraction-free UI, and optimized workflows designed specifically for collaborative learning.
