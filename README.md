@@ -19,12 +19,8 @@ Passionate about AI architecture, space exploration, and scalable innovation. I 
 
 ## 💼 Current Ventures & Leadership
 
-  * **Co-Founder & CEO, [Aethon Media](https://www.instagram.com/aethonmedia/)**
+  * **Founder & CEO, [Avrix Ventures](https://www.instagram.com/avrixmedia/)**
       * Scaling a cutting-edge social media marketing and content creation agency.
-  * **COO, [Nevryon Foundry](https://nevryon-foundry.vercel.app/)**
-      * Leading operations for an early-stage tech foundry focused on SaaS architecture and delivering excellence in every solution.
-  * **Personal Brand, [@\_living.aadarsh](https://www.instagram.com/_living.aadarsh/)**
-      * Building a personal content vault centered on mental frameworks, principles, and founder life.
 
 -----
 
